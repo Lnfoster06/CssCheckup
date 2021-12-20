@@ -1,0 +1,11 @@
+.checkup-class {
+    font-style: oblique; border: solid black 2px;
+}
+
+body {
+    background-color: lemonchiffon; margin: 10%;
+}
+
+#checkup-id {
+   width: 70%; height: 80%;
+}
